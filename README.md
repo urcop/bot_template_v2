@@ -1,0 +1,2 @@
+# Bot template v2
+
